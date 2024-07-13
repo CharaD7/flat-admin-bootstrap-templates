@@ -46,7 +46,7 @@
   "dependencies": {
     "angular-chartist.js": "^4.2.1",
     "angular-ui-bootstrap": "^2.0.2",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^5.0.0",
     "bootstrap-sass": "^3.3.6",
     "chart.js": "^2.2.1",
     "chartist": "^0.9.8",
